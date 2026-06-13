@@ -8,7 +8,7 @@ from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 
-st.set_page_config(page_title="ReelPredict AI", page_icon="🎬", layout="centered")
+st.set_page_config(page_title="ReelPredict", page_icon="🎬", layout="centered")
 
 st.markdown("""
 <style>
